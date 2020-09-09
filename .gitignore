@@ -1,0 +1,16 @@
+# gedit backup files
+*~
+
+# Python mess
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+
+# virtual environment directory
+venv/
+
+
+# see <https://github.com/github/gitignore/blob/master/Python.gitignore>
+

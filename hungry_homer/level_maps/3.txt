@@ -1,0 +1,24 @@
+XXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXX
+Xl             b          >    X
+X                            b X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXX   X
+X    *    <     *   <    *     X
+X                              X
+X         *     L   *          X
+X   XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X         *         *          X
+X                              X
+X    *    <     _   <    *     X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXX   X
+X    *          *        *     X
+X                              X
+X         *     <   *          X
+X   XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X    *          *        *     X
+X                              X
+X         *     >   *          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXX   X
+X    *          *   l    *     X
+X H                            X
+X         *         *          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
