@@ -9,8 +9,10 @@ which I've done as a requirement for NPRG031 programming course at MFF UK.
 Requirements
 ------------
 
- * Python 3.7 or higher
- * [pyglet](https://pypi.org/project/pyglet/)
+ * Python 3.6 or higher
+ * Python packages (these are installed automatically by `pip`, see below)
+    - [pyglet](https://pypi.org/project/pyglet/)
+    - [importlib_resources](https://pypi.org/project/importlib-resources/) (necessary only for Python 3.6)
 
 
 Installation
@@ -18,7 +20,7 @@ Installation
 
 Run `git clone https://github.com/vhorkycz/hungry_homer/` in your terminal,
 go to the repository directory, and then run
-`pip install . --user`
+`pip install --user .`
 (or create a virtual environment, and run `pip install .` in it).
 
 

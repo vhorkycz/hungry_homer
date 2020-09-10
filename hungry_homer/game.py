@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 
-from importlib import resources
+try:
+    from importlib import resources
+# for Python < 3.7
+except ImportError:
+    import importlib_resources as resources
 
 import pyglet
 
