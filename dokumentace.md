@@ -1,6 +1,23 @@
 Dokumentace Hladového Homéra
 ============================
 
+
+Kreslicí knihovna
+-----------------
+
+Pro kreslení používám knihovnu [pyglet](https://pypi.org/project/pyglet/)
+([dokumentace](https://pyglet.readthedocs.io/en/latest/)).
+Dočetl jsem se, že je [prý](https://steveasleep.com/pyglettutorial.html) rychlejší a přehlednější
+než [Pygame](https://pypi.org/project/pygame/), nejrozšířenější knihovna pro vytváření grafických her v Pythonu,
+ale žádné pořádné srovnání jsem nenašel
+a sám jsem Pygame nezkoušel, takže to nedovedu posoudit.
+Zato jsem několikrát narazil na jednu nevýhodu Pygletu,
+a to že se málo používá a je o něm málo informací.
+
+Pro pohyb a srážky předmětů jsem možná mohl využít [Pymunk](https://pypi.org/project/pymunk/),
+místo toho, abych to flikoval sám (viz níže), ale nezkoušel jsem ho.
+
+
 Vytvoření úrovně
 ----------------
 
