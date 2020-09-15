@@ -5,7 +5,7 @@ Dokumentace Hladového Homéra
 Kreslicí knihovna
 -----------------
 
-Pro kreslení používám knihovnu [pyglet](https://pypi.org/project/pyglet/)
+Pro kreslení používám knihovnu [Pyglet](https://pypi.org/project/pyglet/)
 ([dokumentace](https://pyglet.readthedocs.io/en/latest/)).
 Dočetl jsem se, že je [prý](https://steveasleep.com/pyglettutorial.html) rychlejší a přehlednější
 než [Pygame](https://pypi.org/project/pygame/), nejrozšířenější knihovna pro vytváření grafických her v Pythonu,
@@ -41,7 +41,7 @@ X     *       X
 XXXXXXXXXXXXXXX
 ```
 
-Každý znak představuje jeden bod mřížky stejně veliké jako každý předmět (20 na 20 px).
+Každý znak představuje jeden bod mřížky stejně veliký jako každý předmět (20 na 20 px).
 
 | znak(y) | obrázek | předmět | poznámka |
 | --- | --- | --- | --- |
