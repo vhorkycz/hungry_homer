@@ -7,12 +7,6 @@ Installation script for hungry_homer.
 from setuptools import setup, find_packages
 import os
 
-install_requires=[
-        "enum34;python_version<'3.4'",
-        "pywin32 >= 1.0;platform_system=='Windows'"
-    ]
-
-
 def main():
     setup(
         name="Hungry Homer",
